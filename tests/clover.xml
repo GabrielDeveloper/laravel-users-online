@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1505343827">
+  <project timestamp="1505343827">
+    <package name="HighIdeas\UsersOnline\Traits">
+      <file name="/home/gabriel/desenvolvimento/projetos/laravel-users-online/src/Traits/UsersOnlineTrait.php">
+        <class name="UsersOnlineTrait" namespace="HighIdeas\UsersOnline\Traits">
+          <metrics complexity="13" methods="11" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="31" coveredelements="31"/>
+        </class>
+        <line num="11" type="method" name="allOnline" visibility="public" complexity="1" crap="1" count="3"/>
+        <line num="13" type="stmt" count="3"/>
+        <line num="16" type="method" name="isOnline" visibility="public" complexity="1" crap="1" count="6"/>
+        <line num="18" type="stmt" count="6"/>
+        <line num="21" type="method" name="leastRecentOnline" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="23" type="stmt" count="1"/>
+        <line num="24" type="method" name="anonymousFunction:24#109" complexity="1" crap="1" count="1"/>
+        <line num="25" type="stmt" count="1"/>
+        <line num="26" type="stmt" count="1"/>
+        <line num="29" type="method" name="mostRecentOnline" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="31" type="stmt" count="1"/>
+        <line num="32" type="method" name="anonymousFunction:32#153" complexity="1" crap="1" count="1"/>
+        <line num="33" type="stmt" count="1"/>
+        <line num="34" type="stmt" count="1"/>
+        <line num="37" type="method" name="getCachedAt" visibility="public" complexity="2" crap="2" count="3"/>
+        <line num="39" type="stmt" count="3"/>
+        <line num="40" type="stmt" count="1"/>
+        <line num="42" type="stmt" count="2"/>
+        <line num="45" type="method" name="setCache" visibility="public" complexity="1" crap="1" count="6"/>
+        <line num="47" type="stmt" count="6"/>
+        <line num="50" type="method" name="getCacheContent" visibility="public" complexity="2" crap="2" count="6"/>
+        <line num="52" type="stmt" count="6"/>
+        <line num="53" type="stmt" count="1"/>
+        <line num="55" type="stmt" count="6"/>
+        <line num="57" type="stmt" count="6"/>
+        <line num="58" type="stmt" count="6"/>
+        <line num="62" type="method" name="pullCache" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="64" type="stmt" count="1"/>
+        <line num="65" type="stmt" count="1"/>
+        <line num="67" type="method" name="getCacheKey" visibility="public" complexity="1" crap="1" count="9"/>
+        <line num="69" type="stmt" count="9"/>
+        <metrics loc="71" ncloc="71" classes="1" methods="11" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="31" coveredelements="31"/>
+      </file>
+    </package>
+    <metrics files="1" loc="71" ncloc="71" classes="1" methods="11" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="31" coveredelements="31"/>
+  </project>
+</coverage>
